@@ -21,7 +21,7 @@
     "name" : "store"
   } ],
   "paths" : {
-    "/nishant" : {
+    "/nishant-branch" : {
       "get" : {
         "operationId" : "listUser",
         "responses" : {
